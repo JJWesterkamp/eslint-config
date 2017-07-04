@@ -1,6 +1,6 @@
 {
   "name": "@jjwesterkamp/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ESLint configuration package for maintaining Javascript code style consistent across projects",
   "main": "index.js",
   "scripts": {
