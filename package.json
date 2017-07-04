@@ -1,0 +1,31 @@
+{
+  "name": "@jjwesterkamp/eslint-config",
+  "version": "0.9.0",
+  "description": "ESLint configuration package for maintaining Javascript code style consistent across projects, and compliant with the Pixelindustries coding guidelines",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@code.pixelindustries.com:pxl-packages/eslint-config-pixelindustries.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "pixelindustries",
+    "pxl"
+  ],
+  "author": "Jeffrey Westerkamp",
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": ">= 4",
+    "eslint-plugin-import": ">= 2.3"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "js-yaml": "^3.8.4",
+    "path": "^0.12.7"
+  }
+}
